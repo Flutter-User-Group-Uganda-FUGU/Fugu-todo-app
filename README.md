@@ -1,8 +1,4 @@
-Here’s an updated version of the README tailored to your **Fugu ToDo App** based on the link you shared. I’ve incorporated a more structured format for clarity and added relevant sections for community contribution:
-
----
-
-# **Fugu ToDo App**
+###Fugu ToDo App**
 
 Welcome to **Fugu ToDo App**, an open-source task management application built using **Flutter**. This project is hosted by the **Flutter User Group Uganda (FUGU)** to encourage learning and collaboration among developers. Whether you're a beginner or a seasoned Flutter developer, we welcome your contributions as we build a modern, fully-featured To-Do app together.
 
@@ -105,6 +101,4 @@ Join the **Flutter User Group Uganda (FUGU)** to engage with other developers, a
 - [FUGU on Twitter](https://twitter.com/fugu_uganda)
 - [Discord](https://discord.gg/fugu)
 
----
 
-This README update incorporates sections to guide both beginners and advanced developers, provides contribution instructions, and adds relevant details for community engagement. Feel free to modify any details or links as needed!
