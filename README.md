@@ -1,4 +1,4 @@
-###Fugu ToDo App**
+### **Fugu ToDo App**
 
 Welcome to **Fugu ToDo App**, an open-source task management application built using **Flutter**. This project is hosted by the **Flutter User Group Uganda (FUGU)** to encourage learning and collaboration among developers. Whether you're a beginner or a seasoned Flutter developer, we welcome your contributions as we build a modern, fully-featured To-Do app together.
 
